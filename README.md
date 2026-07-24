@@ -22,7 +22,7 @@ By completing this project, I was able to: <br>
 • Apply comparison operators <br>
 • Combine multiple environmental conditions using logical operators <br>
 • Present agricultural insights in a professional report <br>
-• Think like a software developer solving environmental and agricultural problems <br><br>
+• Think like a software developer solving environmental and agricultural problems <br>
 
 **Key Analytical Questions Answered** <br>
 The script systematically evaluates inputs to answer crucial operational questions:
