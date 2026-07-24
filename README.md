@@ -13,6 +13,25 @@ o	Assignment operators (+=, -=, etc.) to update real-time environmental metrics.
 o	Comparison operators (>, <, ==, >=) to test safety thresholds. <br>
 o	Logical operators (AND, OR, NOT) and membership checks to evaluate complex multi-condition weather scenarios. <br>
 
+**Project Objectives** <br>
+By completing this project, I was able to: <br>
+• Create meaningful variables
+• Use appropriate data types
+• Perform arithmetic calculations
+• Update values using assignment operators
+• Apply comparison operators
+• Combine multiple environmental conditions using logical operators
+• Present agricultural insights in a professional report
+• Think like a software developer solving environmental and agricultural problems <br><br>
+
+Task 1 — Create the Variables
+
+##### Task 2 — Calculate Rainfall Difference
+Rainfall Difference = Minimum Required Rainfall − Recorded Rainfall
+
+##### Task 3 — Calculate Temperature Margin <br>
+Temperature Margin = Maximum Safe Temperature − Current Temperature 
+
 **Key Analytical Questions Answered** <br>
 The script systematically evaluates inputs to answer crucial operational questions:
 1.	Comparative Rainfall Analysis: Which farm received higher cumulative rainfall?
