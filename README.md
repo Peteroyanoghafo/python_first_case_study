@@ -4,14 +4,14 @@ By evaluating environmental parameters such as rainfall and temperature threshol
 it provides actionable insights to help farm managers identify favorable growing conditions and pinpoint locations requiring immediate intervention.
 
 **Concepts & Skills Applied** <br>
-This project was built purely with core Python fundamentals, focusing on clean logical flow and data evaluation without reliance on external libraries:
-•	Python Fundamentals: Custom functions, dynamic user inputs, and proper variable scoping.
-•	Data Typing & Management: Working with appropriate data types (float, int, str, bool) and structured variables.
-•	Mathematical & Logical Modeling:
-o	Arithmetic calculations for cumulative/average metrics.
-o	Assignment operators (+=, -=, etc.) to update real-time environmental metrics.
-o	Comparison operators (>, <, ==, >=) to test safety thresholds.
-o	Logical operators (AND, OR, NOT) and membership checks to evaluate complex multi-condition weather scenarios.
+This project was built purely with core Python fundamentals, focusing on clean logical flow and data evaluation without reliance on external libraries: <br>
+•	Python Fundamentals: Custom functions, dynamic user inputs, and proper variable scoping. <br>
+•	Data Typing & Management: Working with appropriate data types (float, int, str, bool) and structured variables. <br>
+•	Mathematical & Logical Modeling: <br>
+o	Arithmetic calculations for cumulative/average metrics. <br>
+o	Assignment operators (+=, -=, etc.) to update real-time environmental metrics. <br>
+o	Comparison operators (>, <, ==, >=) to test safety thresholds. <br>
+o	Logical operators (AND, OR, NOT) and membership checks to evaluate complex multi-condition weather scenarios. <br>
 
 **Key Analytical Questions Answered** <br>
 The script systematically evaluates inputs to answer crucial operational questions:
