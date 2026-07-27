@@ -10,7 +10,7 @@
 ## Summary
 In agricultural production, daily weather variations determines field operations and risk management. This project implements a Decision Support System developed for **AgriClimate Solutions Ltd.** The script evaluates daily microclimate data against crop-specific physiological thresholds to determine environmental favorability and automatically flag farms requiring immediate intervention.
 
-The analysis evaluates two location scenarios (Kaduna — Maize; Benue — Rice) to demonstrate  how weather anomalies and lack of infrastructure (irrigation) trigger management alerts.
+The analysis evaluates two location scenarios (Kaduna - Maize; Benue - Rice) to demonstrate  how weather anomalies and lack of infrastructure (irrigation) trigger management alerts.
 
 ---
 
